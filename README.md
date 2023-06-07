@@ -9,7 +9,7 @@
 
 ## - ✅ Projeto 01 - Fundamentos do ReactJS
 Nesse módulo, criaremos uma aplicação React utilizando o Vite e aprenderemos sobre os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação. <br/>
-:hourglass: Iniciando com React (💻 6 aulas | ⌚ 01:00:59) <br/>
+✅ Iniciando com React (💻 6 aulas | ⌚ 01:00:59) <br/>
 :hourglass: Estrutura da aplicação (💻 12 aulas | ⌚ 00:35:25) <br/>
 :hourglass: Os motores do React (💻 10 aulas | ⌚ 00:21:15) <br/>
 :hourglass: Aprimorando a aplicação (💻 3 aulas | ⌚ 00:37:32) <br/>
